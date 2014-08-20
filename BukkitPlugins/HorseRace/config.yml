@@ -1,0 +1,7 @@
+###default config.yml
+###SECONDS
+timeToWaitTillStart: 200
+###AMOUNT OF HORSES
+horsesToSpawnInTheStables: 10
+##MAX PLAYERS PER ARENA
+MaxPlayersPerArena: 4

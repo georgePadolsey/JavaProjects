@@ -1,0 +1,6 @@
+name: GuardKit
+main: GuardKitCalebBell.georgep.pokuit.GuardKitPlugin
+version: 1.0
+commands:
+   guard:
+      description: Main GuardKit Command

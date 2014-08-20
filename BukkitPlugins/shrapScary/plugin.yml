@@ -1,0 +1,16 @@
+name: ScaryShrap
+main: scaryShrap.regiusCraft.pokuit.Main
+version: 1.0
+commands:
+   scary:
+      description: Shrap is SCARY
+      usage: /<command> <person>
+      permission: shrapScary.basic
+      permission-message: You don't have <permission>
+      default: true
+   stopscary:
+      description: Shrap is (no longer) SCARY
+      usage: /<command> <person>
+      permission: shrapScary.basic
+      permission-message: You don't have <permission>
+      default: true

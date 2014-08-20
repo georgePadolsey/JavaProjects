@@ -1,0 +1,9 @@
+name: ChatListener
+main: chatListener.regiusCraft.pokuit.Main
+version: 1.0
+commands:
+   listenfor:
+      description: Listen for stuffz
+      usage: /<command> <person>
+      permission: chatListener.basic
+      permission-message: You don't have <permission>

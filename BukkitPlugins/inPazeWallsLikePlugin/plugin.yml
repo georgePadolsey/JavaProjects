@@ -1,0 +1,4 @@
+name: WallsPlugin
+main: inPhazeWallsPlugin.georgep.pokuit.InPhazeWallsPlugin
+depends: ["UAPI"]
+version: 1.0

@@ -1,0 +1,11 @@
+name: DispensersOffline
+main: minecartsOffline.regiuscraft.georgep.pokuit.Main
+version: 1.0
+permissions:
+   dispensersOffline.*:
+     description: Gives access to all Dispenser commands
+     children:
+       dispensersOffline.place: true
+   dispensersOffline.place:
+     description: Allows you to place dispensers
+     default: false

@@ -1,0 +1,6 @@
+# default config.yml
+defaultWorld: world
+Location:
+   x: 799
+   y: 27
+   z: -744

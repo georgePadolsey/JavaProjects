@@ -1,0 +1,50 @@
+###-----------------Guard Kit Plugin-----------------###
+###                  Made By Pokuit                  ###
+###--------------------------------------------------###
+
+## The Items To Have In The Kit
+## In Format ["Id Of Item:Enchantment (check enchantments below) with level:Name Of Item If you want colours use & followed by the colour code"]
+## Colour codes: http://www.minecraftwiki.net/wiki/Formatting_codes
+## E.g.
+## Items: 
+## - "261:Unbreaking-5,Power.6: &cBow of Justice"
+## - "276:Sharpness.2:Sword Of Justice"
+## - "77::Hitting button"
+Items:
+- ""
+
+## What The Taser Will Be, Leave Blank for no taser
+## E.g.
+## Taser: "Stick::Taser"
+Taser: ""
+
+## How long in minutes cooldown after use
+## Time: 360 ## 6 hours
+Time:
+
+#############################################
+##ENCHANTMENT Types
+##=================
+##http://jd.bukkit.org/rb/apidocs/org/bukkit/enchantments/Enchantment.html
+##ARROW_DAMAGE
+##ARROW_FIRE
+##ARROW_INFINITE
+##ARROW_KNOCKBACK
+##DAMAGE_ALL
+##DAMAGE_ARTHROPODS
+##DAMAGE_UNDEAD
+##DIG_SPEED
+##DURABILITY
+##FIRE_ASPECT
+##KNOCKBACK
+##LOOT_BONUS_BLOCKS
+##LOOT_BONUS_MOBS
+##OXYGEN
+##PROTECTION_ENVIROMENTAL
+##PROTECTION_EXPLOSIONS
+##PROTECTION_FALL
+##PROTECTION_FIRE
+##PROTECTION_PROJECTILE
+##SILK_TOUCH
+##THORNS
+##WATER_WORKER

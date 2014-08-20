@@ -1,0 +1,9 @@
+name: Music Craft
+main: musicCraft.regiusCraft.pokuit.Main
+version: 1.0
+commands:
+   listen:
+      description: Listen to Music!
+      usage: /<command>
+      permission: musicCraft.basic
+      permission-message: You don't have <permission>

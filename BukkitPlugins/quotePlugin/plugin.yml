@@ -1,0 +1,9 @@
+name: quotePlugin
+main: quotePlugin.pokuit.maddy.Main
+version: 1.0
+commands:
+   quote:
+      description: Quote Something
+      usage: /<command> string
+      permission: quote.user
+      permission-message: You don't have permission to run this command

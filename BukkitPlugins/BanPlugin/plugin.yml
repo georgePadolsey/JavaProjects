@@ -1,0 +1,19 @@
+name: Three_Bans
+main: threeBans.regiusCraft.pokuit.Main
+version: 2.0
+commands:
+   threeban:
+      description: Spawn Test Fail!
+      usage: /<command>
+      permission: threeBan.basic
+      permission-message: You don't have <permission>
+   tbs:
+      description: Set about of tries for spawn test!
+      usage: /<command> <player> <number>
+      permission: threeBan.admin
+      permission-message: You don't have <permission>
+   tbg:
+      description: Check Warnings For Spawn Test!
+      usage: /<command> <player>
+      permission: threeBan.admin
+      permission-message: You don't have <permission>
